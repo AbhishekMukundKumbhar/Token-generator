@@ -1,0 +1,29 @@
+#outer {
+    display: grid;
+    grid-auto-rows: 50px;
+    grid-gap: 10px;
+    margin: 10px,0 !important;
+}
+
+.token-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.div-blue {
+    background-color: blue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.div-red {
+    background-color: red;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+}
